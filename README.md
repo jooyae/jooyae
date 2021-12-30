@@ -1,17 +1,12 @@
+### Hi, I'm Juyae !<img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = 3% >
 
-![Juaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jooyae&theme=omni&hide=contribs,stars)
+#### Projects
+[![linkedin](https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg)](https://brass-morning-369.notion.site/Juyae-Park-219fa1c8f3eb477ca8d7ea3f17032c36)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooyae&layout=compact&theme=radical)](https://github.com/jooyae/github-readme-stats)
+#### Tech Stack
+[![tensorflow](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg)](https://www.tensorflow.org/)[![Python](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg)](https://www.python.org/)[![Android](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg)](https://developer.android.com/)[![Kotlin](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg)](https://kotlinlang.org/)[![Java](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg)](https://www.java.com/)[![c++](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg)](https://www.figma.com/)[![firebase](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg)](https://firebase.google.com/)[![pytorch](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg)](https://pytorch.org/)[![figma](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg)](https://www.figma.com/)
 
-💻**Tech Stack**
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Kotlin&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> <img src="https://img.shields.io/badge/KaliLinux-557C94?style=flat-square&logo=KaliLinux&logoColor=white"/></a> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>
-
-👩🏻‍💻***Portfolio*** [MyPortfolio](https://www.notion.so/Juyae-Park-219fa1c8f3eb477ca8d7ea3f17032c36)
-
-
-
-
-
+#### Github Stats
+[![Top Langs](https://camo.githubusercontent.com/94fa9ba14976b35d6e4a46b66abaabfcf3e1710d9c62b48b6a8bcb855c575866/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6f6f796165266c61796f75743d636f6d70616374267468656d653d7261646963616c)](https://github.com/jooyae/github-readme-stats)
+![Juaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jooyae&theme=jolly&hide=stars)
 
